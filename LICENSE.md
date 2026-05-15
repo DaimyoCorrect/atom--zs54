@@ -1,4 +1,4 @@
-# 
+# rare Atom for PC | Atom for Windows Script | markdown-preview + code-folding offers the most advanced Atom for PC | Atom for Windows script, with markdown-preview and
 
 
 
